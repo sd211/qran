@@ -7,7 +7,7 @@ client.login(process.env.BOT_TOKEN);
 var connections = { }
 var _she5 = {
 "ماهر المعيقلي": "https://www.youtube.com/watch?v=Ktync4j_nmA",
-"مشاري العفاسي": "https://www.youtube.com/watch?v=2etOS_nwTr0",
+"مشاري العفاسي": "https://www.youtube.com/watch?v=CBTTFbTljTQ",
 "عبد الباسط عبد الصمد": "https://www.youtube.com/watch?v=vqXLGtZcUm8",
 "ياسر الدوسري": "https://www.youtube.com/watch?v=WYT0pQne-7w"
 }
