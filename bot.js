@@ -74,7 +74,7 @@ client.on('message', ( message ) => {
 
 
 
-const adminprefix = "6";//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
+const adminprefix = "Q";//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 const devs = ['431150885549113344','452918050371534859','431779124898430979'];//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 client.on('message', message => {//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
   var argresult = message.content.split(` `).slice(1).join(' ');//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
